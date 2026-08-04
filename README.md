@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/PawanBhatt00/DSA--journey/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
