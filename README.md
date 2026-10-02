@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PawanBhatt00/DSA--journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PawanBhatt00/DSA--journey/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PawanBhatt00/DSA--journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PawanBhatt00/DSA--journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PawanBhatt00/DSA--journey/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanBhatt00/DSA--journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/PawanBhatt00/DSA--journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
