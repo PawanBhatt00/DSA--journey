@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PawanBhatt00/DSA--journey/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PawanBhatt00/DSA--journey/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/PawanBhatt00/DSA--journey/tree/master/0892-surface-area-of-3d-shapes) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PawanBhatt00/DSA--journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PawanBhatt00/DSA--journey/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/PawanBhatt00/DSA--journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PawanBhatt00/DSA--journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PawanBhatt00/DSA--journey/tree/master/0231-power-of-two) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/PawanBhatt00/DSA--journey/tree/master/0892-surface-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/PawanBhatt00/DSA--journey/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
