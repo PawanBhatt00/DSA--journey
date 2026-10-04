@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/PawanBhatt00/DSA--journey/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/PawanBhatt00/DSA--journey/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PawanBhatt00/DSA--journey/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PawanBhatt00/DSA--journey/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/PawanBhatt00/DSA--journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanBhatt00/DSA--journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PawanBhatt00/DSA--journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
@@ -56,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PawanBhatt00/DSA--journey/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PawanBhatt00/DSA--journey/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/PawanBhatt00/DSA--journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanBhatt00/DSA--journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PawanBhatt00/DSA--journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PawanBhatt00/DSA--journey/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PawanBhatt00/DSA--journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PawanBhatt00/DSA--journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Prefix Sum
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PawanBhatt00/DSA--journey/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/PawanBhatt00/DSA--journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanBhatt00/DSA--journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
