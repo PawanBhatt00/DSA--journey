@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PawanBhatt00/DSA--journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PawanBhatt00/DSA--journey/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/PawanBhatt00/DSA--journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PawanBhatt00/DSA--journey/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/PawanBhatt00/DSA--journey/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PawanBhatt00/DSA--journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PawanBhatt00/DSA--journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Minimax
 |  |
